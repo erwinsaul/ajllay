@@ -1,0 +1,16 @@
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos Virtuales
+.venv/
+env/
+venv/
+
+# Archivos Temporales
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+.idea/
+
